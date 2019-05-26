@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{140:function(n,e,t){"use strict";t.r(e);var u=t(0),i=t.n(u);e.default=function(){return i.a.createElement("h3",null,"devburst.github.io")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3f5b710aefe785c2e1fc.js.map
